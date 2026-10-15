@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# RELAY — Free Contest Stack
+# RELAY
 
 Personal incident-response agent via iMessage.
 
