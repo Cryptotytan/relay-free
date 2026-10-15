@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # RELAY
 
 Personal incident-response agent via iMessage.
